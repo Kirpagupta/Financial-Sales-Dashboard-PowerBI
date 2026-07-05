@@ -50,7 +50,6 @@ The objective of this project is to design an interactive dashboard for business
 
 - Financial Sales Dashboard.pbix
 - Financial Sample Data.csv
-- Dashboard Screenshot
 - Presentation (PPT)
 - README.md
 
